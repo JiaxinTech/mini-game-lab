@@ -7,7 +7,7 @@ import pygame
 import sys
 import random
 
-# 初始化
+# 初始化 注释
 pygame.init()
 SCREEN_WIDTH, SCREEN_HEIGHT = 800, 600
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
